@@ -27,7 +27,7 @@ I am a post-doctoral researcher at Nanyang Technological University, under the j
 **2026:**  
 -11. *Batched Oblivious Transfer with Square-Root Communication*     
   Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**    
-  CIC 2026 [IACR](https://doi.org/10.62056/ah89ksa5v)[ePrint](https://eprint.iacr.org/2026/1541)
+  CIC 2026 [IACR](https://doi.org/10.62056/ah89ksa5v) [ePrint](https://eprint.iacr.org/2026/1541)
 
 -10. *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
