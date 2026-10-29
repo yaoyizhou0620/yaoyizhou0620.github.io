@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at Nanyang Technological University, under the joint supervison of Prof. Ling San and Prof. Wang Huaxiong. I received a Ph.D. degree at Shanghai Jiao Tong University in Sept 2026, supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
+I am a post-doctoral researcher at Nanyang Technological University, under the joint supervison of Prof. Ling San and Prof. Wang Huaxiong. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
     
 <h2 id="education"> Education</h2>
 
-- Ph.D. in Cyber Security   
+- Ph.D. in Cyber Security, supervised by Prof. Chaoping Xing   
   Shanghai Jiao Tong University (Sept 2021- Sept 2026)
 
 - Visiting Ph.D. in Cryptography, hosted by Prof. Claudio Orlandi   
