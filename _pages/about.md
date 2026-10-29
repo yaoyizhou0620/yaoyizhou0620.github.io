@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortunately supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
+I am a post-doctoral researcher at Nanyang Technological University, under the joint supervison of Prof. Ling San and Prof. Wang Huaxiong. I received a Ph.D. degree at Shanghai Jiao Tong University in Sept 2026, supervised by Prof. Chaoping Xing. In general, I have broad interests in zero-knowledge proofs and secure multi-party computation. More concretely, these days I am paying particular attentions to pseudorandom correlation generators/functions, code-based succinct arguments, batch arguments, and so on. 
     
 <h2 id="education"> Education</h2>
 
@@ -27,7 +27,7 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 **2026:**  
 -11. *Batched Oblivious Transfer with Square-Root Communication*     
   Yicheng Li, Claudio Orlandi, Lawrence Roy, and **Yizhou Yao**    
-  To appear at CIC 2026 [ePrint](https://eprint.iacr.org/2026/1541)
+  CIC 2026 [IACR](https://doi.org/10.62056/ah89ksa5v)[ePrint](https://eprint.iacr.org/2026/1541)
 
 -10. *Efficient Pseudorandom Correlation Generators over Binary Extension Fields and More*        
   Zhe Li, Hongqing Liu, Chaoping Xing, **Yizhou Yao**, and Chen Yuan   
@@ -92,7 +92,7 @@ I am a Ph.D. candidate at the Shanghai Jiao Tong University (2021- now), fortuna
 
 <h2 id="experience"> Experience & Service</h2>
 
-- Externel review at ASIACRYPT 2023 & 2024, EUROCRYPT 2026, CRYPTO 2026, also serve as a volunteer at TCC 2025.
+- Externel review at ASIACRYPT 2023 & 2024, EUROCRYPT 2026 & 2027, CRYPTO 2026, also serve as a volunteer at TCC 2025.
  
 <h2 id="awards"> Awards</h2>
 
